@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wall-E - Jekyll</title>
+    <description>A Modern Jekyll Theme</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 01 Aug 2018 00:07:50 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Aug 2018 00:07:50 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>blog 포스팅 테스트</title>
+        <description>&lt;p&gt;블로그 세팅 1&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/assets/img/logo.png&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Tue, 24 Jul 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2018/07/blogTest.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/07/blogTest.html</guid>
+        
+        <category>sample post</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
