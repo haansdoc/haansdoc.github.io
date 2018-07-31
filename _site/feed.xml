@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wall-E - Jekyll</title>
-    <description>A Modern Jekyll Theme</description>
+    <title>RECORD</title>
+    <description>RECORD about Haan</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Aug 2018 00:07:50 +0900</pubDate>
-    <lastBuildDate>Wed, 01 Aug 2018 00:07:50 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Aug 2018 00:20:16 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Aug 2018 00:20:16 +0900</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
