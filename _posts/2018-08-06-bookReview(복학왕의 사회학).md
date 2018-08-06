@@ -7,7 +7,7 @@ author: Haan
 image:
   background: triangular.png
 ---
-<img src="/assets/img/복학왕의사회학.jpg">
+<img src="/assets/img/bochakwang.jpg">
 <br/>
 
 <p> 알라딘에서 받은 포인트가 곧 만료 된다고 하기도 하고,</P>
