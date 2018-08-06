@@ -5,12 +5,59 @@
     <description>RECORD about Haan</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Aug 2018 00:09:59 +0900</pubDate>
-    <lastBuildDate>Thu, 02 Aug 2018 00:09:59 +0900</lastBuildDate>
+    <pubDate>Mon, 06 Aug 2018 23:07:47 +0900</pubDate>
+    <lastBuildDate>Mon, 06 Aug 2018 23:07:47 +0900</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
-        <title>Book Review</title>
+        <title>Book Review - 복학왕의 사회학</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/img/복학왕의사회학.jpg&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt; 알라딘에서 받은 포인트가 곧 만료 된다고 하기도 하고,&lt;/p&gt;
+&lt;p&gt;가끔 보는 계간지 “마이크로소프트웨어”의 이번호 메인 이슈가 Javascript이기도 해서 그걸 사려고 알라딘에 접속했다가 배송비가 2500원 붙길래 책을 한권 더 사야겠다 싶어서 둘러보는데......&lt;/p&gt;
+&lt;p&gt;트위터에서 알게된, 예전에 DSME를 다니다가 요즘엔 경남대 교수를 하고 있는 “아는 모르는 사람”이 독서 후기를 남긴 것을 보고 흥미로워서 같이 샀다&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;대구의 계명대학교 교수인 작가는 대구의 4년재 지방대학 재학생, 졸업생, 그리고 그 부모들을 인터뷰하고 그에 따른 지방대생들의 특성을 결론으로 제시 하고 있다&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;기억에 남는 내용을 요약하자면&lt;/p&gt;
+&lt;p&gt;지방대생들은&lt;/p&gt;
+&lt;p&gt;1. 자신의 이상향은 있지만 (안정적인 공무원) 자신은 평소 공부를 잘 하지 못하는 사람이기때문에 도전하지 않는다&lt;/p&gt;
+&lt;p&gt;2. (취업의 경쟁자라고 볼 수 있는) 학우들과 “유사 가족”같은 유대관계를 만들어 상호간의 경쟁을 피한다&lt;/p&gt;
+&lt;p&gt;3. 어떤 도전(노력)의 결과가 실패할까 두려워서  애초에 최선의 노력을 하지 않는다. 그리고 실패하고 자신은 어차피 실패할 줄 알았다며 그래서 최선을 다하지 않았다며 자위한다&lt;/p&gt;
+&lt;p&gt;4. 가끔 현실에서 벗어나기 위해 노력(타지-서울-등으로 취직)을 하지만 가벼운 실패에 쉽게 좌절하고 가정(고향)으로 돌아와 안주한다&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;위 3가지 정도의 내용이 인상 깊었다&lt;/p&gt;
+&lt;p&gt;전부 내 이야기이기 때문에&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;나는 항상 내 자신이 부족하고 내 현실에 만족하지 못하고 미래를 위해 여기저기 굴러다니면서 최선의 결과를 내기 위해 최선을 다해 살아왔다고 생각했다. &lt;/p&gt;
+&lt;p&gt;그런데 그게 나 자신조차 속이는 자기 합리화 였다는 생각이 들었다.&lt;/p&gt;
+
+&lt;p&gt;서울에 일자리를 구해서 갔지만(심지어 아버지께서 구해주심) 1년만에 도망치듯 돌아왔다&lt;/p&gt;
+&lt;p&gt;사업이랍시고 샌드위치 장사를 했지만 게을러서 얼마 하지도 않고 포기했다&lt;/p&gt;
+&lt;p&gt;그리고 내 노력보다는 시류에 맞게(운이 좋아서) 비교적 좋은 회사에 취업했지만 나는 그걸 나 혼자만의 성취라고 생각하고 살았다&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;애초에 나는 내 주관대로 노를 저어서 목표를 향해 간 것이 아니라, 흘러가는데로 가다가 멈춘곳을 “나의 목표”였다고 포장하는 삶을 살아온 것이다&lt;/p&gt;
+&lt;bt /&gt;
+
+&lt;p&gt;하지만&lt;/p&gt;
+&lt;p&gt;지나온 내 삶의 방식을 반성하거나 그러고 싶지는 않다 &lt;/p&gt;
+&lt;p&gt;이제부터 조금만(약간만) 더 다르게 살아볼 생각이다&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Aug 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2018/08/bookReview(%E1%84%87%E1%85%A9%E1%86%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%AA%E1%86%BC%E1%84%8B%E1%85%B4-%E1%84%89%E1%85%A1%E1%84%92%E1%85%AC%E1%84%92%E1%85%A1%E1%86%A8).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/08/bookReview(%E1%84%87%E1%85%A9%E1%86%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%AA%E1%86%BC%E1%84%8B%E1%85%B4-%E1%84%89%E1%85%A1%E1%84%92%E1%85%AC%E1%84%92%E1%85%A1%E1%86%A8).html</guid>
+        
+        <category>Book Review</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Book Review - 개인주의자 선언</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://t1.daumcdn.net/cfile/tistory/2148E33656642B8D1D&quot; /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;내가 사는 책은 언제나 그렇지만 &lt;/p&gt;
@@ -50,10 +97,10 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Aug 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2018/08/bookReview(20180801).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2018/08/bookReview(20180801).html</guid>
+        <link>http://localhost:4000//2018/08/bookReview(%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/08/bookReview(%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB).html</guid>
         
-        <category>sample post</category>
+        <category>Book Review</category>
         
         
       </item>
