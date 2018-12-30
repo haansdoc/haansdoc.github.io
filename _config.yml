@@ -4,7 +4,10 @@ description: 'RECORD about Haan'
 markdown: kramdown
 highlighter: rouge
 logo: false
-paginate: 15
+ # paging
+plugins: [jekyll-paginate]
+paginate: 3
+paginate_path: “/blog/page:num/”
 baseurl: /
-plugins: [jekyll-gist]
+#plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
