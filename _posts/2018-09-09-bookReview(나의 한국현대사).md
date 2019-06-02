@@ -2,6 +2,7 @@
 layout: post
 title: Book Review - 나의 한국현대사
 description: "Book Review - 나의 한국현대사 (2018.09.09)" 
+category: Book_Review
 tags: [Book Review]
 author: Haan
 image:

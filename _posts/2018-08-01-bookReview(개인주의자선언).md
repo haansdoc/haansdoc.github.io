@@ -2,6 +2,7 @@
 layout: post
 title: Book Review - 개인주의자 선언
 description: "Book Review - 개인주의자 선언 (2018.08.01)" 
+category: Book_Review
 tags: [Book Review]
 author: Haan
 image:

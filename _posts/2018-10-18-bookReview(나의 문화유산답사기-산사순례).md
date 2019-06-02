@@ -2,6 +2,7 @@
 layout: post
 title: Book Review - 나의 문화유산 답사기 - 산사순례
 description: "Book Review - 나의 문화유산 답사기 - 산사순례 (2018.10.18)" 
+category: Book_Review
 tags: [Book Review]
 author: Haan
 image:

@@ -2,6 +2,7 @@
 layout: post
 title: Book Review - 에피 2호
 description: "Book Review - 에피 2호 (2018.08.27)" 
+category: Book_Review
 tags: [Book Review]
 author: Haan
 image:

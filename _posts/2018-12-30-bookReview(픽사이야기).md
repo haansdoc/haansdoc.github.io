@@ -2,6 +2,7 @@
 layout: post
 title: Book Review - 픽사 이야기
 description: "Book Review - 픽사 이야기 (2018.12.30)" 
+category: Book_Review
 tags: [Book Review]
 author: Haan
 image:
