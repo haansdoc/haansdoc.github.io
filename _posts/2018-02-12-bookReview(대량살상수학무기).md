@@ -2,6 +2,7 @@
 layout: post
 title: Book Review - 중력파
 description: "Book Review - 중력파 (2018.02.05)" 
+category: Book_Review
 tags: [Book Review]
 author: Haan
 image:

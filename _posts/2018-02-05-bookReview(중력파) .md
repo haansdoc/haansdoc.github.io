@@ -2,6 +2,7 @@
 layout: post
 title: Book Review - 대량살상 수학 무기
 description: "Book Review - 대량살상 수학 무기 (2018.02.12)" 
+category: Book_Review
 tags: [Book Review]
 author: Haan
 image:
