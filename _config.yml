@@ -4,6 +4,8 @@ description: 'RECORD about Haan'
 markdown: kramdown
 highlighter: rouge
 logo: false
+g-analytics: UA-141365392-1
+
  # paging
 plugins: [jekyll-paginate]
 paginate: 3
@@ -11,4 +13,3 @@ paginate_path: “/blog/page:num/”
 baseurl: /
 #plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
-g-analytics: UA-141365392-1
