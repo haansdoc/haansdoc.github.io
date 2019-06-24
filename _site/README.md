@@ -1,3 +1,8 @@
+haan's blog
+
+
+------------------------------------------------------------------------------------------------------
+
 # Wall-E
 
 Wall-E is a modern Jekyll template with a magazine-like grid layout on the frontpage, beautiful typography and uncomplicated content. 
