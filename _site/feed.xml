@@ -5,49 +5,182 @@
     <description>RECORD about Haan</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 May 2020 15:11:17 +0900</pubDate>
-    <lastBuildDate>Thu, 21 May 2020 15:11:17 +0900</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2020 01:18:11 +0900</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2020 01:18:11 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Book Review - 엔딩보게 해 주세요</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+        <title>2020.09.19 - 2020년 8월 리뷰</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;반성
+    &lt;ul&gt;
+      &lt;li&gt;글쓰기를 하고싶을때 글을 써야 한다는데 월별 리뷰(회고)는 4월에 멈춰있네.(업데이트 안한 글은 있는지 없는지 모르겠다.)
+책 리뷰도 5월에 업데이트 한게 끝이고.
+그동안 뭐하고 살았는지 모르겠다. 재택근무를 오래 하면서 점점 풀어지는 것 같은데……&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;이사, 재태크, 재택
+    &lt;ul&gt;
+      &lt;li&gt;8월31일 기준으로 지금 사는 아파트의 5층 집을 구매했다.
+완전히 거제를 떠나서 양산 물금에 정착하게 됐다고 봐야지
+로운이가 좀 있으면 학교를 갈 것 같은데, 학교를 입학하면 전학을 왠만하면 안가게 할려고 생각중이다.
+그럼 이동네에 진짜 오래 살겠네. 뭐 신도시라서 나쁘지는 않은거 같다.
+5층집도 당시에 (지난 3월)에 급히 계약을 했는데 결과적으로는 잘 산것 같은 것이
+무슨 이유인지 모르겠지만, 이동네 아파트값이 그시절에 비해서 몇천 올랐다.
+그땐 우리가 비싸게 사는것 아닌가 싶어서 걱정했는데,
+역시……. 나는 재태크를 못 한다. 도대체 무슨 원리로 돌아가는지 이해를 못하겠다.
+재태크할 목돈도 없지.&lt;/li&gt;
+      &lt;li&gt;이직하고 분위기를 바꾼것이 아직까지는 너무 마음에 든다. 
+로운이랑 함께 할 수 있는 시간이 늘어나서 유대감도 더 생긴것같아서 너무 좋다. 그리고 와이프도 거제도에 있을때 보다 친구도 많이 늘고 덜 외로워하는것 같아서 다행이다. 
+이제 나만 잘 하면 된다.&lt;/li&gt;
+      &lt;li&gt;이직하고 쭉 재택근무를 하다보니 시간 활용이 어렵다. 
+너무 일만 하거나 너무 일을 안하거나. 
+요즘은 또 새벽에 일어나서 일하는 습관이 들어서 낮에는 집중도 잘 안되고 무슨 병든 닭 마냥 헤롱거린다. 
+self management를 중시 하는 회사니까. 
+내가 잘 알아서 챙겨서 해야겠다. &lt;br /&gt;
+회고라고 제목 붙여놓고 쓸데없는 이야기만 한참 했네.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;업무 : 일단 당장 리스트에 올라 있는것이 이정도 이고, 또 내가 진행하는 일에 대한 문서작업을 어떻게 해야할지 정해서 그대로 기록을 해야 겠다.
+    &lt;ul&gt;
+      &lt;li&gt;design utilites
+        &lt;ul&gt;
+          &lt;li&gt;일단 초기 버전 배포 / 피드백 확인 필요&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;paint area
+        &lt;ul&gt;
+          &lt;li&gt;현재 작업중 (9월16일 기준)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;DB간 object copy
+        &lt;ul&gt;
+          &lt;li&gt;어떻게 접근해야할지 기본 개념도 떠오르지 않음&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Stiffener landing for Nomura ship yard JAPAN
+        &lt;ul&gt;
+          &lt;li&gt;aoki와 미팅을 통해 구현방법을 구체화 해 나가고 있음&lt;br /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;side project 
+  이것 저것 하고싶은건 많은데
+    &lt;ul&gt;
+      &lt;li&gt;일단 시간을 내서 진행해야할 우선 순위 1번은 
+  NAPA Designer 내 해서 main object를 새로 만들때 object들의 속성을 학습하여 그 이름을 현재 정의하려는 object와 비슷한 속성(!)을 가진 그룹의 naming rule을 자동으로 정의 할 수 있게 하는 기능 구현 &lt;br /&gt;
+  → 간단하지만 ML을 적용했다는 의제를 선점 할 수 있음&lt;/li&gt;
+      &lt;li&gt;두번째로는 매번 생각만 하고 실천은 안하는건데 예전에 fusetool로 만들었던 걸 react로 만들어 보려고 한다. 조금더 간단하게. google speadsheet를 DB로 사용해서 매일의 만족도를 기록하게 하는 앱&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/BR_190518_엔딩.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;알라딘에서 무슨 클라우드 펀딩으로 충동구매한책&lt;/p&gt;
-
-&lt;p&gt;게임개발에 관련된 일을 하는 작가들이 쓴 단편들을 모은 책이다.&lt;/p&gt;
-
-&lt;p&gt;게임을 소재로 한 몇개의 단편들인데 하나하나 지루하지 않고 시간 가는 줄 모르고 읽었다.&lt;/p&gt;
-
-&lt;p&gt;(기술서적들은 한 줄 읽고 생각하고 하느라고 보기가 너무 힘들다ㅠㅠ 특히 통계학…..무슨말인지 이해도 못하고 일단 그냥 넘어감. 무슨 영문으로 된 책 읽는줄……)&lt;/p&gt;
-
-&lt;p&gt;이런 책을 보다보면 게임도 만들어 보고싶고 또 머신러닝 책을 보다보면 또 그걸 이용한 뭔가를 만들어 보고싶고. 
-이바닥이 있으면서 해보고싶은건 많은데 막상 하는건 없다.&lt;/p&gt;
-
-&lt;p&gt;오늘(2020.05.08) 페이스북에서 임백준작가(이자 현 삼전상무)님이 쓴 글에서 
-“개발자가 새로운 기술을 습득하고싶으면 그 기술을 현업에 적용해야 한다.”&lt;/p&gt;
-
-&lt;p&gt;대충 이런 내용을 읽었다.&lt;/p&gt;
-
-&lt;p&gt;정말 맞는 말이다.&lt;/p&gt;
-
-&lt;p&gt;회사에서 일하고 퇴근하고 와서 일과 1도 연관성이 없는 분야를 공부하는게 쉽지 않다.&lt;/p&gt;
-
-&lt;p&gt;우선 나만해도 공부하겠다고 앉아도 업무에 대한 고민을 하느라 집중을 잘 못한다.&lt;/p&gt;
-
-&lt;p&gt;이직초기라 시스템 파악이 다 안되서 그럴지도 모르겠다. 이걸 빨리 마쳐야 머신러닝을 적용하던 뭘 하던 “하던 공부”를 이어갈 수 있을텐데.&lt;/p&gt;
-
-&lt;p&gt;여튼&lt;/p&gt;
-
-&lt;p&gt;경험상 이런 책들은 금방 절판되는데 
-레어템 획득 잘 한것 같다.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+  &lt;br /&gt;
+  &lt;br /&gt;
+  &lt;br /&gt;
+  &lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 18 May 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/05/bookReview(%EC%97%94%EB%94%A9%EB%B3%B4%EA%B2%8C-%ED%95%B4-%EC%A3%BC%EC%84%B8%EC%9A%94).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/05/bookReview(%EC%97%94%EB%94%A9%EB%B3%B4%EA%B2%8C-%ED%95%B4-%EC%A3%BC%EC%84%B8%EC%9A%94).html</guid>
+        <pubDate>Sat, 19 Sep 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2020/09/learn_etc(200919).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/09/learn_etc(200919).html</guid>
+        
+        <category>2020년 8월 리뷰</category>
+        
+        <category>learn it myself</category>
+        
+        
+        <category>learn</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Review - 신의 망치</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/BR_200721.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;혜성이 지구를 향해 달려오고 인류가 구조대(?) 를 보내 막는다는 이야기
+영화 “딥임펙트”의 내용과 유사하다
+(이 소설이 원작일지도 모르겠네)&lt;/p&gt;
+
+&lt;p&gt;오랫만에 SF소설을 읽었는데 
+이런류의 스토리를 제법 본게 많아서 크게 재미있지는 않았다 (만 그럭저럭 재미있었다)
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 21 Jul 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2020/07/bookReview(%EC%8B%A0%EC%9D%98-%EB%A7%9D%EC%B9%98)-copy.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/07/bookReview(%EC%8B%A0%EC%9D%98-%EB%A7%9D%EC%B9%98)-copy.html</guid>
+        
+        <category>Book Review</category>
+        
+        
+        <category>Book_Review</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Review - 신경끄기의 기술</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/THE SUBTLE.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;책을 너무 오랜기간 동안 드문드문 읽어서 총평이랄 뭔가 딱히 떠오르지 않는다.&lt;/p&gt;
+
+&lt;p&gt;다만 책 읽으면서 밑줄 달아 둔 몇 문장을 공유 하려 한다.&lt;/p&gt;
+
+&lt;p&gt;“하지만 가만히 생각해보면, 인생에 관해 사람들이 흔히 떠들어 대는 조언—긍정과 행복으로 가득 찬 자기계발 요령—은 사실 우리에게 ‘부족한 것’에 초점을 맞추고 있다. 이런 조언은 개개인이 이미 자신의 결점과 실패로 인식하고 있는 부분을 파고들어, 그것에 몰두하게 한다.”&lt;/p&gt;
+
+&lt;p&gt;“우리가 부자가 되는 비법을 배우는 건, 나는 돈이 없다고 생각하기 때문이다. 거울 앞에 서서 나는 예쁘다고 주문을 거는 건, 내가 못났다고 여기기 때문이다. 연애와 인간관계에 관한 조언을 따르는 건, 사람들이 날 싫어한다고 생각하기 때문이다. 성공하기 위해 웃기지도 않는 이미지 트레이닝을 하는 건, 내가 성공하지 못했다고 여기기 때문이다.”&lt;/p&gt;
+
+&lt;p&gt;“마이클 조던은 “난 살아오면서 실패에 실패를 거듭했다. 그게 내가 성공한 이유다”라는 명언을 남겼다. 음, 난 살아오면서 오판에 오판을 거듭했다. 그게 내 삶이 개선된 이유다.”&lt;/p&gt;
+
+&lt;p&gt;“동기가 부족해서 인생을 바꿀 수 없다고 생각한다면, 뭔가를 하라. 뭐라도 말이다. 그다음 행동의 반응을 활용해서 스스로 동기를 부여하라.
+난 이걸 ‘뭐라도 해’ 원리라고 부른다.”&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;신경 끄기의 기술&lt;/td&gt;
+      &lt;td&gt;마크 맨슨, 두진욱, 한재호 저&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Sun, 12 Jul 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2020/07/bookReview(%EC%8B%A0%EA%B2%BD%EB%81%84%EA%B8%B0%EC%9D%98-%EA%B8%B0%EC%88%A0).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/07/bookReview(%EC%8B%A0%EA%B2%BD%EB%81%84%EA%B8%B0%EC%9D%98-%EA%B8%B0%EC%88%A0).html</guid>
+        
+        <category>Book Review</category>
+        
+        
+        <category>Book_Review</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Review - 스타트업은 어떻게 유니콘이 되는가</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/INSZIDE.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;옐로 모바일의 내부자가 기록한 옐로 모바일의 흥망성쇠&lt;/p&gt;
+
+&lt;p&gt;언제까지 “실무자”로 남을 순 없을 것 같은데
+나는 어떤 공부를 얼마나 더 많이 해야 여기 글쓴 이 처럼 사업가 마인드를 배울 수 있을까&lt;/p&gt;
+
+&lt;p&gt;그런 고민을 던져 준 책&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Jul 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2020/07/bookReview(%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%A0%EB%8B%88%EC%BD%98%EC%9D%B4-%EB%90%98%EB%8A%94%EA%B0%80).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/07/bookReview(%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%A0%EB%8B%88%EC%BD%98%EC%9D%B4-%EB%90%98%EB%8A%94%EA%B0%80).html</guid>
         
         <category>Book Review</category>
         
@@ -88,78 +221,9 @@
 
 &lt;p&gt;그 후기는 월말 리뷰에 작성하겠지. (미래의 내가ㅋㅋ)&lt;/p&gt;
 </description>
-        <pubDate>Mon, 18 May 2020 00:00:00 +0900</pubDate>
+        <pubDate>Tue, 12 May 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000//2020/05/bookReview(%EB%82%98%EB%8A%94-%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EB%8B%A4%EB%85%94%EB%8B%A4).html</link>
         <guid isPermaLink="true">http://localhost:4000//2020/05/bookReview(%EB%82%98%EB%8A%94-%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EB%8B%A4%EB%85%94%EB%8B%A4).html</guid>
-        
-        <category>Book Review</category>
-        
-        
-        <category>Book_Review</category>
-        
-      </item>
-    
-      <item>
-        <title>Book Review - 과학잡지 에피 - 4호</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/BR_190518_에피.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;언젠지 정확히 기억이 안나는데 작년? 재작년? 그쯤 “스캡틱” 정기구독이 끝나고 나서 이 계간지를 정기구독했다.&lt;/p&gt;
-
-&lt;p&gt;과학 비평지인데 겨우 교양과학서적 몇권 읽을 줄 알던 내 수준으로는 어렵더라.&lt;/p&gt;
-
-&lt;p&gt;에피4호에서는 인공지능(?) 인공생명(?)에 대해 이야기를 풀어냈다.&lt;/p&gt;
-
-&lt;p&gt;책의 말미에 자율주행차에 대해 이야기가 나왔는데 나는 그 부분을 읽으면서 딴 생각이 났다.&lt;/p&gt;
-
-&lt;p&gt;영화 “업그레이드”였다.&lt;/p&gt;
-
-&lt;p&gt;인공지능이 발전된 사회에서 인간은 껍데기일 뿐이고 모든 “결정과 운영”은 인공지능이 한다. 그걸 거부하는 사람은 자기가 원하는 환상(가상현실)속에 가둬버리고.&lt;/p&gt;
-
-&lt;p&gt;얼마전 생활코딩의 “이고잉” 님이 만드신 머신러닝 강의 티져 영상에서도 그런 언급이 있었다고 기억한다.&lt;/p&gt;
-
-&lt;p&gt;인간은 자신의 역할을 점점 컴퓨터에게 넘기고 이젠 “결정”마저 넘기려 한다. (엇….이런 부정적인 뉘앙스는 아니었는데……)&lt;/p&gt;
-
-&lt;p&gt;암튼 기계적인 독서만 하는 와중에 약간이나마 생각할 거리를 얻어서 나름 재미있게 금방 읽었다.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 May 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/05/bookReview(%EA%B3%BC%ED%95%99%EC%9E%A1%EC%A7%80-%EC%97%90%ED%94%BC-4%ED%98%B8).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/05/bookReview(%EA%B3%BC%ED%95%99%EC%9E%A1%EC%A7%80-%EC%97%90%ED%94%BC-4%ED%98%B8).html</guid>
-        
-        <category>Book Review</category>
-        
-        
-        <category>Book_Review</category>
-        
-      </item>
-    
-      <item>
-        <title>Book Review - Clean Code</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/BR_190518_클린코드.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;유명한 책이다.&lt;/p&gt;
-
-&lt;p&gt;개발자들의 필독서&lt;/p&gt;
-
-&lt;p&gt;근데 난 개발자가 아닌가 보다.&lt;/p&gt;
-
-&lt;p&gt;책 초반에 코드를 작성할때 어떻게 (재사용가능하게 / 유지보수편하게 / 읽기 쉽게) 작성해야 하는가에 대한 요령을 알려준다.&lt;/p&gt;
-
-&lt;p&gt;클린코드가 무엇인지 우선 정의하고&lt;/p&gt;
-
-&lt;p&gt;(내 생각에 가장 기본이고) 작은 단위인 naming부터 시작해서 함수, 자료구조, 클래스 등으로 점점 설명하는 
-영역이 확장되는 방식으로 내용을 서술하고 있다.&lt;/p&gt;
-
-&lt;p&gt;나도 나름 개발자라 하지만 작은 분야에서 특정 기술의 일부분만을 한정적으로 사용해서 소프트웨어를 개발 하다보니( 변명이 길다) 책의 후반후로 가면 갈 수록 예제 코드 자체를 이해하지 못 했다.&lt;/p&gt;
-
-&lt;p&gt;그래도 이렇게 조금씩 접하다보면 언젠가는 이해 될 날이 오겠지. 뭐.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 May 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/05/bookReview(Clean-Code).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/05/bookReview(Clean-Code).html</guid>
         
         <category>Book Review</category>
         
@@ -230,6 +294,122 @@
       </item>
     
       <item>
+        <title>Book Review - 엔딩보게 해 주세요</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/BR_190518_엔딩.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;알라딘에서 무슨 클라우드 펀딩으로 충동구매한책&lt;/p&gt;
+
+&lt;p&gt;게임개발에 관련된 일을 하는 작가들이 쓴 단편들을 모은 책이다.&lt;/p&gt;
+
+&lt;p&gt;게임을 소재로 한 몇개의 단편들인데 하나하나 지루하지 않고 시간 가는 줄 모르고 읽었다.&lt;/p&gt;
+
+&lt;p&gt;(기술서적들은 한 줄 읽고 생각하고 하느라고 보기가 너무 힘들다ㅠㅠ 특히 통계학…..무슨말인지 이해도 못하고 일단 그냥 넘어감. 무슨 영문으로 된 책 읽는줄……)&lt;/p&gt;
+
+&lt;p&gt;이런 책을 보다보면 게임도 만들어 보고싶고 또 머신러닝 책을 보다보면 또 그걸 이용한 뭔가를 만들어 보고싶고. 
+이바닥이 있으면서 해보고싶은건 많은데 막상 하는건 없다.&lt;/p&gt;
+
+&lt;p&gt;오늘(2020.05.08) 페이스북에서 임백준작가(이자 현 삼전상무)님이 쓴 글에서 
+“개발자가 새로운 기술을 습득하고싶으면 그 기술을 현업에 적용해야 한다.”&lt;/p&gt;
+
+&lt;p&gt;대충 이런 내용을 읽었다.&lt;/p&gt;
+
+&lt;p&gt;정말 맞는 말이다.&lt;/p&gt;
+
+&lt;p&gt;회사에서 일하고 퇴근하고 와서 일과 1도 연관성이 없는 분야를 공부하는게 쉽지 않다.&lt;/p&gt;
+
+&lt;p&gt;우선 나만해도 공부하겠다고 앉아도 업무에 대한 고민을 하느라 집중을 잘 못한다.&lt;/p&gt;
+
+&lt;p&gt;이직초기라 시스템 파악이 다 안되서 그럴지도 모르겠다. 이걸 빨리 마쳐야 머신러닝을 적용하던 뭘 하던 “하던 공부”를 이어갈 수 있을텐데.&lt;/p&gt;
+
+&lt;p&gt;여튼&lt;/p&gt;
+
+&lt;p&gt;경험상 이런 책들은 금방 절판되는데 
+레어템 획득 잘 한것 같다.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 May 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2020/05/bookReview(%EC%97%94%EB%94%A9%EB%B3%B4%EA%B2%8C-%ED%95%B4-%EC%A3%BC%EC%84%B8%EC%9A%94).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/05/bookReview(%EC%97%94%EB%94%A9%EB%B3%B4%EA%B2%8C-%ED%95%B4-%EC%A3%BC%EC%84%B8%EC%9A%94).html</guid>
+        
+        <category>Book Review</category>
+        
+        
+        <category>Book_Review</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Review - Clean Code</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/BR_190518_클린코드.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;유명한 책이다.&lt;/p&gt;
+
+&lt;p&gt;개발자들의 필독서&lt;/p&gt;
+
+&lt;p&gt;근데 난 개발자가 아닌가 보다.&lt;/p&gt;
+
+&lt;p&gt;책 초반에 코드를 작성할때 어떻게 (재사용가능하게 / 유지보수편하게 / 읽기 쉽게) 작성해야 하는가에 대한 요령을 알려준다.&lt;/p&gt;
+
+&lt;p&gt;클린코드가 무엇인지 우선 정의하고&lt;/p&gt;
+
+&lt;p&gt;(내 생각에 가장 기본이고) 작은 단위인 naming부터 시작해서 함수, 자료구조, 클래스 등으로 점점 설명하는 
+영역이 확장되는 방식으로 내용을 서술하고 있다.&lt;/p&gt;
+
+&lt;p&gt;나도 나름 개발자라 하지만 작은 분야에서 특정 기술의 일부분만을 한정적으로 사용해서 소프트웨어를 개발 하다보니( 변명이 길다) 책의 후반후로 가면 갈 수록 예제 코드 자체를 이해하지 못 했다.&lt;/p&gt;
+
+&lt;p&gt;그래도 이렇게 조금씩 접하다보면 언젠가는 이해 될 날이 오겠지. 뭐.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Apr 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2020/04/bookReview(Clean-Code).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/04/bookReview(Clean-Code).html</guid>
+        
+        <category>Book Review</category>
+        
+        
+        <category>Book_Review</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Review - 과학잡지 에피 - 4호</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/BR_190518_에피.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;언젠지 정확히 기억이 안나는데 작년? 재작년? 그쯤 “스캡틱” 정기구독이 끝나고 나서 이 계간지를 정기구독했다.&lt;/p&gt;
+
+&lt;p&gt;과학 비평지인데 겨우 교양과학서적 몇권 읽을 줄 알던 내 수준으로는 어렵더라.&lt;/p&gt;
+
+&lt;p&gt;에피4호에서는 인공지능(?) 인공생명(?)에 대해 이야기를 풀어냈다.&lt;/p&gt;
+
+&lt;p&gt;책의 말미에 자율주행차에 대해 이야기가 나왔는데 나는 그 부분을 읽으면서 딴 생각이 났다.&lt;/p&gt;
+
+&lt;p&gt;영화 “업그레이드”였다.&lt;/p&gt;
+
+&lt;p&gt;인공지능이 발전된 사회에서 인간은 껍데기일 뿐이고 모든 “결정과 운영”은 인공지능이 한다. 그걸 거부하는 사람은 자기가 원하는 환상(가상현실)속에 가둬버리고.&lt;/p&gt;
+
+&lt;p&gt;얼마전 생활코딩의 “이고잉” 님이 만드신 머신러닝 강의 티져 영상에서도 그런 언급이 있었다고 기억한다.&lt;/p&gt;
+
+&lt;p&gt;인간은 자신의 역할을 점점 컴퓨터에게 넘기고 이젠 “결정”마저 넘기려 한다. (엇….이런 부정적인 뉘앙스는 아니었는데……)&lt;/p&gt;
+
+&lt;p&gt;암튼 기계적인 독서만 하는 와중에 약간이나마 생각할 거리를 얻어서 나름 재미있게 금방 읽었다.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Apr 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2020/04/bookReview(%EA%B3%BC%ED%95%99%EC%9E%A1%EC%A7%80-%EC%97%90%ED%94%BC-4%ED%98%B8).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/04/bookReview(%EA%B3%BC%ED%95%99%EC%9E%A1%EC%A7%80-%EC%97%90%ED%94%BC-4%ED%98%B8).html</guid>
+        
+        <category>Book Review</category>
+        
+        
+        <category>Book_Review</category>
+        
+      </item>
+    
+      <item>
         <title>2020.04.10 - 2020년 3월 리뷰</title>
         <description>&lt;ol&gt;
   &lt;li&gt;탈거제
@@ -277,157 +457,6 @@
         
         
         <category>learn</category>
-        
-      </item>
-    
-      <item>
-        <title>2020.03.03 - 2020년 2월 리뷰</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;이로이 탄생
-    &lt;ul&gt;
-      &lt;li&gt;2월 11일 11시 05분 이로이 탄생. 첫째에 비해서 순둥순둥한게 착하게 잘 지낸다. 신생아때 순한게  커서도 순한게 아니라고 하긴 하던데….. 두고보면 알겠지&lt;/li&gt;
-      &lt;li&gt;애기엄마가 로이를 케어한다고 내가 로운이랑 있는 시간이 많아졌다. (원래 성격이 드러워서 그렇겠지만) 로운이한테 부쩍 화를 많이 내고 있다. 그러지 말아야지 하면서도 나도 모르게 성질을 확 내는데…… 진짜 그러지 말아야지. 내가 우리 아버지 싫어하는게 딱 그런건데, 어느순간 똑같이 되 버렸다.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;한국오피스
-    &lt;ul&gt;
-      &lt;li&gt;12월에 입사해서 헬싱키  15일, 1월에 20일, 2월에 출산휴가 10일. 거기 더해서 코로나때문에 재택근무를 2주차까지 하고 있다. 한달도 만근을 한적이 없다. 운이 좋은 건지 어떤건지……&lt;/li&gt;
-      &lt;li&gt;그래도 외국계 회사 오니까 재택근무를 할 수 있어서 좋다. 안그래도 둘째때문에 와이프 고생하는데 큰 도움은 안되더라도 옆에 있을 수 있어서. (이건 와이프말도 들어봐야 하나……)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;재택근무
-    &lt;ul&gt;
-      &lt;li&gt;코로나 때문에 재택근무 중인데, 이게 애가 어린이집을 못가고 집에 있으니까 도저히 집중을 못하는 분위기다. 그러나 보니 애기 재우고 밤에 좀 하게 되는데, 이건 또 담날 아침에 늦게 일어나게 되고…… 악순환의 연속이다. 밤에 일을 안하면 될텐데, 또 그럼 집중가능한 시간이 너무 없어지고.&lt;/li&gt;
-      &lt;li&gt;재택근무 되게 좋은 줄 알았는데, 막상 해보니 너무 힘들다. 애기없는 집에선 괜찮을까?&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2월중 읽은 책
-    &lt;ul&gt;
-      &lt;li&gt;대학원생때 알았더라면 좋았을 것들 : 박사학위를 받은 사람들이 쓴 대학원생들의 공부와 생활 이야기나는 막연한 박사학위에 대한 동경이 있다. (지금도 없어지진 않았다) 그 때문에 주기적으로 대학원을 가야겠다. 공부를 하고싶다. 고 말을 하고 다니지만, 막상 살짝 맛을 보니 (방송통신대 컴퓨터과학과 학사편입) 주경야독 이거 아무나 하는거 아니더라. 암튼 그렇게 오락가락한 마음을 어떤 방향이든 다잡고 싶어서 충동적으로 책을 구매했다. 책을 다 읽고난 후 내가 내린 (잠정적인) 결론은 [대학원 공부 하지말자.&lt;/li&gt;
-      &lt;li&gt;내가 하고싶어하는 자유 주제의 책읽기와 개발 공부를 더 하자.]  이다.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Tue, 03 Mar 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/03/learn_etc(200303).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/03/learn_etc(200303).html</guid>
-        
-        <category>2020년 2월 리뷰</category>
-        
-        <category>learn it myself</category>
-        
-        
-        <category>learn</category>
-        
-      </item>
-    
-      <item>
-        <title>2020.02.03 - 2020년 1월 리뷰</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;핀란드 출장
-    &lt;ul&gt;
-      &lt;li&gt;잘 다녀왔다. 두번째 간거라 익숙하고 사람들도 많이 친해졌고 내가 앞으로 어떤일을 어떻게 하게될지 알게 되었다&lt;/li&gt;
-      &lt;li&gt;wpf mvvm 으로 어떻게 개발해야 할지에 대한 감이 거의 없다 지금은 주먹구구식인데 회사에서 작성해 놓은 비슷한 코드를 좀 더 보고 따라해 봐야겠다.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;한국 오피스
-    &lt;ul&gt;
-      &lt;li&gt;아직 어색한데 그래도 빨리 적응 해야지. 개발자가 나 뿐이라 할일이 너무 많을거 같은데 내가 빨리빨리 처리 할 수 있을지가 걱정이다. 열심히 해야겠지만…….&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;1월중 읽은 책
-    &lt;ul&gt;
-      &lt;li&gt;어웨이크 : 핀란드 가는길에 다 읽었다 뭔가 정리할 한마디가 있었는데 한달쯤 지나니까 기억이 안나네 (블로그엔 이미 정리 함)&lt;/li&gt;
-      &lt;li&gt;실리콘밸리를 그리다 : 실리콘밸리에 사는 한국인들이 실리콘밸리를 이야기 한 책. 여기저기 주워들은게 많아서 아는 이야기도 많았다. 처음 읽을때는 삼성중공업에 있을때라 딱히 공감가는 부분은 그리 많이 않았는데 중간에 외국계 회사로 이직하고 또 본사 출장가서 하는 걸 보고 나니 새삼 느낌이 다르긴하다 (당장 그들과 같이 일하진 못하겠지만)&lt;/li&gt;
-      &lt;li&gt;보통 사람들의 전쟁 : 기술의 급속한 발전으로 인해 소외당하는 사람들의 이야기와 그 범위가 점점 확대될 미래에 인류가 어떻게 살아야 하는가에 대한 이야기. 남일아닌데 당장 내가 하는일 부터 내 후손들이 하게 될 지 모르겠다.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Mon, 03 Feb 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/02/learn_etc(200203).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/02/learn_etc(200203).html</guid>
-        
-        <category>2020년 1월 리뷰</category>
-        
-        <category>learn it myself</category>
-        
-        
-        <category>learn</category>
-        
-      </item>
-    
-      <item>
-        <title>Book Review - 실리콘밸리를 그리다</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/BR_200203.jpg&quot; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;실리콘밸리에 사는 한국인들이 실리콘밸리를 이야기 한 책. &lt;/p&gt;
-&lt;p&gt;여기저기 주워들은게 많아서 아는 이야기도 많았다. &lt;/p&gt;
-&lt;p&gt;처음 읽을때는 삼성중공업에 있을때라 &lt;/p&gt;
-&lt;p&gt;딱히 공감가는 부분은 그리 많이 않았는데 &lt;/p&gt;
-&lt;p&gt;중간에 외국계 회사로 이직하고 또 본사 출장가서 하는 걸 보고 나니 &lt;/p&gt;
-&lt;p&gt;새삼 느낌이 다르긴하다.&lt;/p&gt;
-&lt;p&gt;(당장 그들과 같이 일하진 못하겠지만) &lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Feb 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/02/bookReview(%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EB%8B%A4).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/02/bookReview(%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EB%8B%A4).html</guid>
-        
-        <category>Book Review</category>
-        
-        
-        <category>Book_Review</category>
-        
-      </item>
-    
-      <item>
-        <title>Book Review - 보통 사람들의 전쟁</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/BR_200118.jpg&quot; /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;	기술은 보통의 인류(사람)들에게 이로울 것이 없다. &lt;/p&gt;
-&lt;p&gt;	고도의 기술력을 가지고 있지 않은 Common people에겐 빈곤을 가속화 시킬 것이다.&lt;/p&gt;
-&lt;p&gt;	—&amp;gt; 미국 연안의 잘사는 도시들과 내륙의 쇠퇴한 도시들의 비교&lt;/p&gt;
-&lt;p&gt;	—&amp;gt; 기술의 발전과 무관한 삶을 살아오던 살아내고 있는 사람들의 이야기&lt;/p&gt;
-&lt;p&gt;	급속한 기술의 발전으로 이와 무관한 삶을 살아왔던 보통 사람들이 겪고 있는,&lt;/p&gt;
-&lt;p&gt;	그리고 근 미래에 겪게 될 문제들에 대한 이야기 &lt;/p&gt;
-&lt;p&gt;	그 해결책으로 몇가지를 제안 하는데 개인적으로 “기본소득”에 관해 관심이 많이 갔다. &lt;/p&gt;
-&lt;p&gt;	몇해전부터 서울시의 청년들에게 해당 정책을 일부 도입한 걸로 알고 있는데, 뭐라뭐라 말이 있었다. &lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;	개인적으로는,  &lt;/p&gt;
-&lt;p&gt;	최근에 이직을 하면서 월소득이 약간 늘었다. 그렇게 소득이 늘자 처음한 일은 미래에 대한 준비였다.  &lt;/p&gt;
-&lt;p&gt;	보험을 재정비 하고, 아이를 어떻게 키우고, 그런것들. &lt;/p&gt;
-&lt;p&gt;	물론 예상외의 (불로)소득이 생길 경우 흥청망청 할 수도 있겠지만, 보통의 사람들은 모두 나 같지 않을까? &lt;/p&gt;
-&lt;p&gt;	자동화로 인해 높아진 생산성으로 얻어진 부를 일부 극소수가 독점한 것이 아니라, &lt;/p&gt;
-&lt;p&gt;	생활 수당 등의 명목으로 은퇴자나 지역민과 공유하거나, 혹은 세금의 형태로 국가에서 걷어들여 나누어 주는것이 필요하다고 본다. &lt;/p&gt;
-&lt;p&gt;	지금은 꿈같은 이야기지만 조금씩 전진하다보면, 이렇게 될 수 있지 않을까? &lt;/p&gt;
-&lt;p&gt;	지금의 가속화는 빈부격차를 (어느정도나마) 완화 할 수 있는 방법중의 하나가 아닐까 한다. &lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;	위 이야기와는 별도로 마음에 든 내용. &lt;/p&gt;
-&lt;p&gt;	교육에 관해서, &lt;/p&gt;
-&lt;p&gt;	귀족들에게 “농노들 중에 글을 배울 수 있는 자가 있을까” 물어보면 모두 비관적 이었을 것이다.  &lt;/p&gt;
-&lt;p&gt;하지만 지금은 거의 모두가 글을 알고 배울 수 있다. &lt;/p&gt;
-&lt;p&gt;	양자역학은 어떨까? 지금은 모두 이해할 수 없지만, 미래엔 달라질 것이다. &lt;/p&gt;
-&lt;p&gt;	이 내용을 읽고 “관심”과 “기회”가 중요하다는 생각이 들었다. 농노가 글을 배울 기회를 받아도  &lt;/p&gt;
-&lt;p&gt;	원치않은 사람도 있을 것이다. 책에서는 “대학”이 중요한 것이 아니고, “지식”이 중요하다고 말한다.  &lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;	난 최근 “Ph.D”가 되고 싶다는 (전공상관없이) 생각을 했다. &lt;/p&gt;
-&lt;p&gt;	(아마 평생 왔다갔다 하겠지만)지금은 Paper보단 “knowledges”가 중요한것 같다. &lt;/p&gt;
-&lt;p&gt;	지금 속한 조직내에서 나를 증명해야 할 때다. &lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Jan 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/01/bookReview(%EB%B3%B4%ED%86%B5-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EC%A0%84%EC%9F%81).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/01/bookReview(%EB%B3%B4%ED%86%B5-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EC%A0%84%EC%9F%81).html</guid>
-        
-        <category>Book Review</category>
-        
-        
-        <category>Book_Review</category>
         
       </item>
     

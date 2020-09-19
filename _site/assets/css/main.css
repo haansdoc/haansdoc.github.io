@@ -30,25 +30,36 @@ img, video, iframe {
 header {
     max-width: 80%;
     margin: 0 auto;
-    background-image: url(/assets/img/bg.jpg);
     background-size: cover;
     color: rgba(255, 255, 255, .75);
 }
 
+/*
+header {
+    max-width: 80%;
+    margin: 0 auto;
+    background-image: url(/assets/img/bg.jpg);
+    background-size: cover;
+    color: rgba(255, 255, 255, .75);
+}
+*/
+
+
 .site-logo {
-    max-width: 15%;
+    max-width: 30%;
     height: auto;
     margin: 0 auto;
 }
 
 .logo {
     width: 100%;
-    margin-top: 20%;
+    margin-top: 0%;
 }
 
 .site-description {
-    font-family: "League Gothic", "Arial Narrow", Arial, sans-serif;
+    font-family: "Brush Script MT", "League Gothic", "Arial Narrow", Arial, sans-serif;
     text-align: center;
+    font-size: 50px;
 }
 
 
