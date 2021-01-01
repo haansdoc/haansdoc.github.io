@@ -5,8 +5,8 @@
     <description>RECORD about Haan</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Sep 2020 01:18:11 +0900</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2020 01:18:11 +0900</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2020 01:45:48 +0900</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2020 01:45:48 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -65,10 +65,9 @@ self management를 중시 하는 회사니까.
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;side project 
-  이것 저것 하고싶은건 많은데
+  &lt;li&gt;side project
     &lt;ul&gt;
-      &lt;li&gt;일단 시간을 내서 진행해야할 우선 순위 1번은 
+      &lt;li&gt;이것 저것 하고싶은건 많은데 일단 시간을 내서 진행해야할 우선 순위 1번은 
   NAPA Designer 내 해서 main object를 새로 만들때 object들의 속성을 학습하여 그 이름을 현재 정의하려는 object와 비슷한 속성(!)을 가진 그룹의 naming rule을 자동으로 정의 할 수 있게 하는 기능 구현 &lt;br /&gt;
   → 간단하지만 ML을 적용했다는 의제를 선점 할 수 있음&lt;/li&gt;
       &lt;li&gt;두번째로는 매번 생각만 하고 실천은 안하는건데 예전에 fusetool로 만들었던 걸 react로 만들어 보려고 한다. 조금더 간단하게. google speadsheet를 DB로 사용해서 매일의 만족도를 기록하게 하는 앱&lt;/li&gt;
