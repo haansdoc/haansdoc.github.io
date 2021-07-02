@@ -12,6 +12,10 @@
 
     header {
         max-width: 95%;
+        margin: 0 auto;
+        background-size: cover;
+        color: rgba(255, 255, 255, 0.75);
+        text-shadow: 2px 2px gray;
     }
 
 
