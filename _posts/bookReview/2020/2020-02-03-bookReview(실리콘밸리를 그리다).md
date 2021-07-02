@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 실리콘밸리를 그리다
 description: "Book Review - 실리콘밸리를 그리다 (2020.02.03)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

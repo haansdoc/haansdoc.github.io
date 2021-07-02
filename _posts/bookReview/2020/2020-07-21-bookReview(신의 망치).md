@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 신의 망치
 description: "Book Review - 신의 망치 (2020.07.21)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

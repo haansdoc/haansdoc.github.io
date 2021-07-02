@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 2차대전의 마이너리그
 description: "Book Review - 2차대전의 마이너리그 (2019.03.15)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

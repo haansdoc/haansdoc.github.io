@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - KAKAO AI REPORT
 description: "Book Review - KAKAO AI REPORT (2019.02.17)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

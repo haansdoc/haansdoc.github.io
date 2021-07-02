@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 어떻게 민주주의는 무너지는가
 description: "Book Review - 어떻게 민주주의는 무너지는가 (2018.12.29)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

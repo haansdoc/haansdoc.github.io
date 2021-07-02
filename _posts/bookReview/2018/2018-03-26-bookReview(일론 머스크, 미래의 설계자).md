@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 일론 머스크, 미래의 설계자
 description: "Book Review - 일론 머스크, 미래의 설계자 (2018.03.26)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

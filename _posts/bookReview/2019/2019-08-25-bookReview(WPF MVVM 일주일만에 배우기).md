@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - WPF MVVM 일주일만에 배우기
 description: "Book Review - WPF MVVM 일주일만에 배우기 (2019.08.25)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

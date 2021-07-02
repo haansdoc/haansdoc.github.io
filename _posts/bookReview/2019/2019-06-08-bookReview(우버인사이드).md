@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 우버인사이드
 description: "Book Review - 우버인사이드 (2019.06.08)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

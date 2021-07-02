@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 마스터 알고리즘
 description: "Book Review - 마스터 알고리즘 (2019.02.07)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

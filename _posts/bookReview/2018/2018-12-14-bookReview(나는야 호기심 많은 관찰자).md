@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 나는야 호기심 많은 관찰자
 description: "Book Review - 나는야 호기심 많은 관찰자 (2018.12.14)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

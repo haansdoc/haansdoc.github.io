@@ -3,11 +3,7 @@
         <!-- logo and description -->
         {% if page.layout != "post" %}
         <div class="head-area">
-            <h1 class="site-logo">
-                <a href="/"><img src="/assets/img/try-not.jpg" class="logo"/></a>
-            </h1>
-            <!--<h3 class="site-description">{{ site.description }}</h3>-->
-            <h1 class="site-description">Do or Do not, There is no try</h1>
+            <h3 class="site-description">{{ site.description }}</h3>
         </div>
         {% endif %}
         <nav class="site-nav">
@@ -20,23 +16,21 @@
                     <a class="item" href="/about.html">
                         About
                     </a>
-                    <a class="item" href="/Book_Review.html">
-                        Book Review
+                    <a class="item" href="/Read.html">
+                        Read.
                     </a>
-                    <a class="item" href="/learn it myself.html">
-                        learn it myself
+                    <a class="item" href="/Done.html">
+                        Done.
                     </a>
                     <div class="right menu">
                         <div id="head-search" class="ui category search item">
                             <div class="ui transparent icon input">
-                                <input placeholder="Search..." type="text" id="search-input" onkeypress="handleKeyPress()">
+                                <input placeholder="Search..." type="text" id="search-input"
+                                    onkeypress="handleKeyPress()">
                                 <i class="search link icon" onclick="handleSubmit()"></i>
                             </div>
                         </div>
 
-                        <a class="item" href="https://www.facebook.com/haan.m.lee">
-                            <i class="facebook link icon"></i>
-                        </a>
                         <a class="item" href="https://github.com/haan81">
                             <i class="github link icon"></i>
                         </a>

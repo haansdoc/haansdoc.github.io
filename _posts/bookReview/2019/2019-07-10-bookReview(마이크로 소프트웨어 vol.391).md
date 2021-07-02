@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 마이크로소프트웨어 vol.391
 description: "Book Review - 마이크로소프트웨어 vol.391 (2019.07.10)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

@@ -1,13 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RECORD</title>
-    <description>RECORD about Haan</description>
+    <title>retrospect 韓民</title>
+    <description>retrospect 韓民</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Sep 2020 01:45:48 +0900</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2020 01:45:48 +0900</lastBuildDate>
+    <pubDate>Sat, 03 Jul 2021 00:03:13 +0900</pubDate>
+    <lastBuildDate>Sat, 03 Jul 2021 00:03:13 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Book Review - 유닉스의 탄생</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/BR_201220.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;유닉스 운영체제의 역사에 대해 이야기 한 책&lt;/p&gt;
+
+&lt;p&gt;이런류의 책을 좋아했는데 
+(예전에 읽은 맥킨토시 개발 이야기 “미래를 만든 geek” 등등)
+이 책은 한방에 쑥 읽진 못했다.&lt;/p&gt;
+
+&lt;p&gt;읽으면서 느낀게
+이 책에 나오는 사람들은 진짜 “computer scientist”들 이구나 싶었었다.&lt;/p&gt;
+
+&lt;p&gt;그 시기에 그런 연구를 할 수 있는 그런 상황이 되면, 나라도 이런 역사에 이름을 남길 수 있지 않았을까.&lt;br /&gt;
+(그 천재들을 무시할 의도는 없다. 다만 비슷한 조건이 나에게도 주어진다면 할 수 있을것 같다는 막연한 생각이 들었다- 객체지향도 잘 이해 못하면서 너무 건방진 생각인가 싶기도 하네 ㅎㅎ)&lt;/p&gt;
+
+&lt;p&gt;반면 나는 “application developer” 다. &lt;br /&gt;
+앞서 말한 천재과학자들이 이뤄놓은 기술을 “응용”해서 실존하는 제품을 만드는 사람이지.&lt;/p&gt;
+
+&lt;p&gt;부산대 AI대학원 설명을 들었을때도 그랬는데,&lt;br /&gt;
+지금 마음으로는 딱히 scientist가 되고 싶진 않고……&lt;br /&gt;
+그저 내가 지금 하는 일을 더 잘 하고 싶다.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 20 Dec 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2020/12/bookReview(%EC%9C%A0%EB%8B%89%EC%8A%A4%EC%9D%98-%ED%83%84%EC%83%9D).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/12/bookReview(%EC%9C%A0%EB%8B%89%EC%8A%A4%EC%9D%98-%ED%83%84%EC%83%9D).html</guid>
+        
+        <category>Book Review</category>
+        
+        
+        <category>Read.</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Review - 플랫폼 레볼루션</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/BR_201117.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;책을 읽는 내도록&lt;br /&gt;
+내가 그동안 개발해봐야지 싶었던 아이템들은 모두 사용자가 많아져 내가 만든 앱에 “컨텐츠”를 더 많이 만들어 내고 이를 통한 네트워크 효과가 발생해야 더 효용성도 높고 가치가 높아지는 것들이었다.&lt;br /&gt;
+맞는 말인데……&lt;br /&gt;
+일단은 미리 제공되어 있는 “컨텐츠”를 큐레이싱 하 는 앱부터 만드는 연습이 필요할 것 같다.&lt;/p&gt;
+
+&lt;p&gt;처음부터 플랫폼을 만들려고 하지말고 
+어플이케이션부터 만들어 보자는 말이다.&lt;/p&gt;
+
+&lt;p&gt;뭘 하자고 말만하다가 벌써 11월 중순이다.&lt;/p&gt;
+
+&lt;p&gt;플랫폼에 대한 설명과 현존하는 플랫폼들에 대한 이야기, 운영시 중요한점 주의해야할 점 등 다양한 관점에서 이야기를 해주는 책인듯 한데 
+후반으로 갈수록 좀 읽기 어려웠다.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 17 Nov 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2020/11/bookReview(%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%A0%88%EB%B3%BC%EB%A3%A8%EC%85%98).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/11/bookReview(%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%A0%88%EB%B3%BC%EB%A3%A8%EC%85%98).html</guid>
+        
+        <category>Book Review</category>
+        
+        
+        <category>Read.</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Review - 번역가 모모씨의 일일</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/BR_201105.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;이 책은 몇달전에 어느 잡지에서 읽은 책의 한구절을 보고 너무 마음에 들어서,&lt;br /&gt;
+책 제목을 기억해 두었다가, 리디 셀랙트 마침 책이 있어서 읽었다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“난 일이란 2층집과 비슷하다고 생각해. 전체를 받치는 1층은 생활비를 벌기 위한 곳이지. 하지만 그것뿐이면 너무 재미없잖아. 그래서 꿈을 이루기 위한 2층이 필요한거야 꿈만 꾸는 집은 무너지지만 밥만 먹는 집은 답답하잖아” - 번역가 모모씨의 일일 中&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;책은 번역가의 에세이로&lt;br /&gt;
+프리랜서, 재택근무자의 삶에 대해 다양한 이야기를 풀어나갔다.&lt;br /&gt;
+삼성중공업 근무하면서 막연히 동경했던 프리랜서에 대한 현실적인 감각도 간접 체험 해 볼 수 있었다.&lt;br /&gt;
+프리랜서는 “항시 구직중” 이라니….. 생각만해도 피곤하다.&lt;br /&gt;
+재택근무 관련해서는 많은 공감이 되었다.&lt;br /&gt;
+나도 집에서 일하다보니 일과 생활의 구분이 모호해지는 경우가 잦은데
+특히 본사(핀란드)직원들과 미팅을 할때…..정말 힘들다.&lt;br /&gt;
+딱 첫째 하원하는 시간이랑 겹치기 때문이다.&lt;br /&gt;
+별 이슈 없으면 (내 할말이 없으면) 그냥 블루투스 이어폰만 귀에 끼고 아이와 함께 놀면되는데, 내가 뭔가를 발표하거나 주관해야하면 좀 곤란하다. &lt;br /&gt;
+한동안은 밤이고 낮이고 계속 일을 하더니 또 요즘은 밤이고 낮이고 일을 거의 안하기도 한다.&lt;br /&gt;
+이거 보는 눈이 없으니 헤이해지려면 한없이 헤이해지게 되니까,
+이런 저런 이야기들이 지금 내 생활과 공감이 가는 부분도 많아서 생각보다 쉽게 읽혔다.&lt;/p&gt;
+
+&lt;p&gt;그리고 
+내 이야기나 생각을 어떻게 글로 풀어가야할지, 그럼 남들은 어떻게 표현했는지 비교하면서 읽어보려고 노력했다.&lt;br /&gt;
+아직 구체적인 뭔가는 없지만,&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;많이 읽고&lt;/li&gt;
+  &lt;li&gt;많이 쓰다보면&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;뭔가 나만의 스타일이 생기겠지.&lt;br /&gt;
+(지금같은 초딩 독후감 같은 스타일을 피할려고 노력중이다.)&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Nov 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2020/11/bookReview(%EB%B2%88%EC%97%AD%EA%B0%80%EB%AA%A8%EB%AA%A8%EC%94%A8%EC%9D%98-%EC%9D%BC%EC%9D%BC).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/11/bookReview(%EB%B2%88%EC%97%AD%EA%B0%80%EB%AA%A8%EB%AA%A8%EC%94%A8%EC%9D%98-%EC%9D%BC%EC%9D%BC).html</guid>
+        
+        <category>Book Review</category>
+        
+        
+        <category>Read.</category>
+        
+      </item>
     
       <item>
         <title>2020.09.19 - 2020년 8월 리뷰</title>
@@ -91,7 +208,7 @@ self management를 중시 하는 회사니까.
         <category>learn it myself</category>
         
         
-        <category>learn</category>
+        <category>Done.</category>
         
       </item>
     
@@ -101,27 +218,19 @@ self management를 중시 하는 회사니까.
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/BR_200721.jpeg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;혜성이 지구를 향해 달려오고 인류가 구조대(?) 를 보내 막는다는 이야기
-영화 “딥임펙트”의 내용과 유사하다
-(이 소설이 원작일지도 모르겠네)&lt;/p&gt;
+&lt;p&gt;혜성이 지구를 향해 달려오고 인류가 구조대(?)를 보내 막는다는 이야기 영화 “딥임펙트”의 내용과 유사하다 (이 소설이 원작일지도 모르겠네)&lt;/p&gt;
 
-&lt;p&gt;오랫만에 SF소설을 읽었는데 
-이런류의 스토리를 제법 본게 많아서 크게 재미있지는 않았다 (만 그럭저럭 재미있었다)
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;오랫만에 SF소설을 읽었는데 이런류의 스토리를 제법 본게 많아서 크게 재미있지는 않았다 (만 그럭저럭 재미있었다)&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 21 Jul 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/07/bookReview(%EC%8B%A0%EC%9D%98-%EB%A7%9D%EC%B9%98)-copy.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/07/bookReview(%EC%8B%A0%EC%9D%98-%EB%A7%9D%EC%B9%98)-copy.html</guid>
+        <link>http://localhost:4000//2020/07/bookReview(%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B4-%E1%84%86%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%B5).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2020/07/bookReview(%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B4-%E1%84%86%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%B5).html</guid>
         
         <category>Book Review</category>
         
         
-        <category>Book_Review</category>
+        <category>Read.</category>
         
       </item>
     
@@ -160,7 +269,7 @@ self management를 중시 하는 회사니까.
         <category>Book Review</category>
         
         
-        <category>Book_Review</category>
+        <category>Read.</category>
         
       </item>
     
@@ -184,7 +293,7 @@ self management를 중시 하는 회사니까.
         <category>Book Review</category>
         
         
-        <category>Book_Review</category>
+        <category>Read.</category>
         
       </item>
     
@@ -227,7 +336,7 @@ self management를 중시 하는 회사니까.
         <category>Book Review</category>
         
         
-        <category>Book_Review</category>
+        <category>Read.</category>
         
       </item>
     
@@ -288,7 +397,7 @@ self management를 중시 하는 회사니까.
         <category>learn it myself</category>
         
         
-        <category>learn</category>
+        <category>Done.</category>
         
       </item>
     
@@ -335,127 +444,7 @@ self management를 중시 하는 회사니까.
         <category>Book Review</category>
         
         
-        <category>Book_Review</category>
-        
-      </item>
-    
-      <item>
-        <title>Book Review - Clean Code</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/BR_190518_클린코드.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;유명한 책이다.&lt;/p&gt;
-
-&lt;p&gt;개발자들의 필독서&lt;/p&gt;
-
-&lt;p&gt;근데 난 개발자가 아닌가 보다.&lt;/p&gt;
-
-&lt;p&gt;책 초반에 코드를 작성할때 어떻게 (재사용가능하게 / 유지보수편하게 / 읽기 쉽게) 작성해야 하는가에 대한 요령을 알려준다.&lt;/p&gt;
-
-&lt;p&gt;클린코드가 무엇인지 우선 정의하고&lt;/p&gt;
-
-&lt;p&gt;(내 생각에 가장 기본이고) 작은 단위인 naming부터 시작해서 함수, 자료구조, 클래스 등으로 점점 설명하는 
-영역이 확장되는 방식으로 내용을 서술하고 있다.&lt;/p&gt;
-
-&lt;p&gt;나도 나름 개발자라 하지만 작은 분야에서 특정 기술의 일부분만을 한정적으로 사용해서 소프트웨어를 개발 하다보니( 변명이 길다) 책의 후반후로 가면 갈 수록 예제 코드 자체를 이해하지 못 했다.&lt;/p&gt;
-
-&lt;p&gt;그래도 이렇게 조금씩 접하다보면 언젠가는 이해 될 날이 오겠지. 뭐.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 24 Apr 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/04/bookReview(Clean-Code).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/04/bookReview(Clean-Code).html</guid>
-        
-        <category>Book Review</category>
-        
-        
-        <category>Book_Review</category>
-        
-      </item>
-    
-      <item>
-        <title>Book Review - 과학잡지 에피 - 4호</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/BR_190518_에피.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;언젠지 정확히 기억이 안나는데 작년? 재작년? 그쯤 “스캡틱” 정기구독이 끝나고 나서 이 계간지를 정기구독했다.&lt;/p&gt;
-
-&lt;p&gt;과학 비평지인데 겨우 교양과학서적 몇권 읽을 줄 알던 내 수준으로는 어렵더라.&lt;/p&gt;
-
-&lt;p&gt;에피4호에서는 인공지능(?) 인공생명(?)에 대해 이야기를 풀어냈다.&lt;/p&gt;
-
-&lt;p&gt;책의 말미에 자율주행차에 대해 이야기가 나왔는데 나는 그 부분을 읽으면서 딴 생각이 났다.&lt;/p&gt;
-
-&lt;p&gt;영화 “업그레이드”였다.&lt;/p&gt;
-
-&lt;p&gt;인공지능이 발전된 사회에서 인간은 껍데기일 뿐이고 모든 “결정과 운영”은 인공지능이 한다. 그걸 거부하는 사람은 자기가 원하는 환상(가상현실)속에 가둬버리고.&lt;/p&gt;
-
-&lt;p&gt;얼마전 생활코딩의 “이고잉” 님이 만드신 머신러닝 강의 티져 영상에서도 그런 언급이 있었다고 기억한다.&lt;/p&gt;
-
-&lt;p&gt;인간은 자신의 역할을 점점 컴퓨터에게 넘기고 이젠 “결정”마저 넘기려 한다. (엇….이런 부정적인 뉘앙스는 아니었는데……)&lt;/p&gt;
-
-&lt;p&gt;암튼 기계적인 독서만 하는 와중에 약간이나마 생각할 거리를 얻어서 나름 재미있게 금방 읽었다.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 19 Apr 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/04/bookReview(%EA%B3%BC%ED%95%99%EC%9E%A1%EC%A7%80-%EC%97%90%ED%94%BC-4%ED%98%B8).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/04/bookReview(%EA%B3%BC%ED%95%99%EC%9E%A1%EC%A7%80-%EC%97%90%ED%94%BC-4%ED%98%B8).html</guid>
-        
-        <category>Book Review</category>
-        
-        
-        <category>Book_Review</category>
-        
-      </item>
-    
-      <item>
-        <title>2020.04.10 - 2020년 3월 리뷰</title>
-        <description>&lt;ol&gt;
-  &lt;li&gt;탈거제
-    &lt;ul&gt;
-      &lt;li&gt;드디어 완벽한 탈 거제를 달성했다. 거제도 집을 매매했다. (물론 6월에 잔금을 받기로 했지만)기분이 막 복잡할 줄 알았는데, 홀가분 하다. 복잡한 걱정은 이미 이사나올때 다 느끼긴 했다. 거제도 집을 매매하신 분이 우리집을 좋게 보고 있는거 같아서 다행이긴 하다. 그러니까 구매할려고 했겠지. 나도 나름 오래 살 집이라 생각해서 아끼고 살았다.&lt;/li&gt;
-      &lt;li&gt;이제 여기 살 집을 구해야 하는데 코로나19때문에 경기가 좀 가라앉은거 같아서 좀 기다려야한다고 그분(!!)께서 결정하셨다.뭐든 큰 결정은 그분의 의사를 존중해야지.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;재택근무
-    &lt;ul&gt;
-      &lt;li&gt;여전히 재택근무중이다.지난주엔 대표가 “언제까지 재택을 연장할지 결정하지말고, 필요에 따라 언제 모일지 (출근할지)를 정하자”고 한다.말그래도 재택을 상시 체재로 인정하고, 출근을 대안으로 생각하자는 이야기로 해석된다.&lt;/li&gt;
-      &lt;li&gt;집에서 한달넘게 (출산휴가 치면 두달째) 있는데, 이렇게 근무하는것도 나쁘지 않은거 같다.로운이랑 접촉도 많아지고, 육아와 집안일을 도우면서도 일을 할 수 있는게 좋다- 일단 4월 19일까지는 재택근무예정인데…… 어떻게 될지는 좀 더 두고 봐야할것 같다.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;소속
-    &lt;ul&gt;
-      &lt;li&gt;회사내 소속을 변경했다.사실 개발자로 들어와서 당연히 개발팀에 배치될 줄 알았는데, 본사에서는 내가 Technical Support 중 하나로 한국오피스의 Design Service support team 소속으로 근무하는것으로 정리되었던것 같다.&lt;/li&gt;
-      &lt;li&gt;개발 관련 이슈의 고객근접지원이 메인 업무 이긴 하지만, 나름 개발자로 입사해서 정식 개발팀에 소속되고 싶은 욕심도 있었는데, 3월 말 한국 오피스 대표의 이슈제기로 이야기가 시작되어서 결론 적으로 본사 개발팀 중 하나인 Hull Team에 들어왔다.&lt;/li&gt;
-      &lt;li&gt;당분간은, 한국고객관련 개발 아이템이 있어서 그것 개발에 집중해야겠지만,이 아이템들이 제법 정리가 되고나면, 본사 제품 개발에 합류 하려고 한다.(지금 분위기로는 내가 요청하면 되는 분위기다.)물론 내가 지금 개발하고 있는 일종의 Inhouse Program도 본사애들한테 홍보를 해서 ”내가 뭘 한다”는 걸 꾸준히 알려야지&lt;/li&gt;
-      &lt;li&gt;여담인데 한국에서 직장생활하면서 주변사람들 눈치보고, 내가 하고싶지만 눈치껏 못 하는 그런일을 겪을 확률이 이 회사에선 적을 것 같다.(아예없진 않겠지)원하는게 있으면 이슈를 제기해서 사람들의 의견을 들어보고 내가 결정을 내려서 추진을 하면된다.(책에서만 보던 외국계 회사)하지만 그만큼 내가 책임감도 있어야 한다. 결과를 못내면 결국 나만 거짓말 쟁이가 되는거니까.&lt;/li&gt;
-      &lt;li&gt;진짜 불과 몇달전엔 상상하지도 못했던 외국계 회사에 Remote로 근무하는 개발자가 되었다.정말 잘해야지. 앞으로 어떤일이 생길지 점점 신난다.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br /&gt;
-3월중 읽은 책
-&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;dl&gt;
-      &lt;dt&gt;문화대혁명-중국인민의 역사 1962~1976&lt;/dt&gt;
-      &lt;dd&gt;북리뷰에도 썼지만, 너무 읽기 힘들었던 책이었다. 독재자의 정치투쟁때문에 국민들만 죽어나간다. 고생하는게 아니고 실제로 죽어간다. 그런 내용이 이책 시리즈 3권 내내 반복된다.읽기 힘들었지만, 완독한것에 의의를 두고자 한다.&lt;/dd&gt;
-    &lt;/dl&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 10 Apr 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2020/04/learn_etc(200304).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2020/04/learn_etc(200304).html</guid>
-        
-        <category>2020년 3월 리뷰</category>
-        
-        <category>learn it myself</category>
-        
-        
-        <category>learn</category>
+        <category>Read.</category>
         
       </item>
     

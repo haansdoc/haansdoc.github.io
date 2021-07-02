@@ -1,13 +1,11 @@
 
-    Import League Gothic <3
-*/
 @font-face {
-    font-family: 'League Gothic';
+    font-family:'League Gothic';
     src: url('leaguegothic-regular-webfont.eot');
     src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
-    url('leaguegothic-regular-webfont.woff') format('woff'),
-    url('leaguegothic-regular-webfont.ttf') format('truetype'),
-    url('leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
+    url('fonts/leaguegothic-regular-webfont.woff') format('woff'),
+    url('fonts/leaguegothic-regular-webfont.ttf') format('truetype'),
+    url('fonts/leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,14 +22,15 @@ img, video, iframe {
 
 .header-wrapper {
     max-height: 100%;
-    background-color: black;
+    background-color: rgba(96, 152, 184, 1);
 }
 
 header {
     max-width: 80%;
     margin: 0 auto;
     background-size: cover;
-    color: rgba(255, 255, 255, .75);
+    color: rgba(255, 255, 255, 0.75);
+    text-shadow: 2px 2px gray;
 }
 
 /*
@@ -57,9 +56,11 @@ header {
 }
 
 .site-description {
-    font-family: "Brush Script MT", "League Gothic", "Arial Narrow", Arial, sans-serif;
-    text-align: center;
-    font-size: 50px;
+    /* font-family: "Brush Script MT", "League Gothic", "Arial Narrow", Arial,"Open Sans",sans-serif; */
+    font-family: League Gothic;
+    text-align: left;
+    font-size: 40px;
+    margin: 10px 5px 15px 20px;
 }
 
 

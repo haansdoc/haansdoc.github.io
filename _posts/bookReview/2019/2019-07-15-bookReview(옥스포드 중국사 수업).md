@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 옥스포드 중국사 수업
 description: "Book Review - 옥스포드 중국사 수업 (2019.07.15)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 스타트업은 어떻게 유니콘이 되는가
 description: "Book Review - 스타트업은 어떻게 유니콘이 되는가 (2020.07.04)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

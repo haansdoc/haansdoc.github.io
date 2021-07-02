@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 어떻게 창업하셨습니까?
 description: "Book Review - 어떻게 창업하셨습니까? (2019.06.04)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

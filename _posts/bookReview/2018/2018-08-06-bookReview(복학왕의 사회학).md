@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 복학왕의 사회학
 description: "Book Review - 복학왕의 사회학 (2018.08.06)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 천재들의 대참사
 description: "Book Review - 천재들의 대참사 (2018.11.24)"
-category: Book_Review 
+category: Read. 
 tags: [Book Review]
 author: Haan
 image:

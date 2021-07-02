@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 크로스 플랫폼을 위한 C# 7과 닷넷 코어 2.0
 description: "Book Review - 크로스 플랫폼을 위한 C# 7과 닷넷 코어 2.0 (2018.12.04)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

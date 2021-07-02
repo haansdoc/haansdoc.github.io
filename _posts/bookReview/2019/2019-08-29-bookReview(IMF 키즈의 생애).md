@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - IMF 키즈의 생애
 description: "Book Review - IMF 키즈의 생애 (2019.08.29)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

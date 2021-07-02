@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 엔딩보게 해 주세요
 description: "Book Review - 엔딩보게 해 주세요 (2020.05.09)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

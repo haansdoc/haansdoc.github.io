@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 번역가 모모씨의 일일
 description: "Book Review - 번역가 모모씨의 일일 (2020.11.05)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

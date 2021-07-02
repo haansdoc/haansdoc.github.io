@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 마이크로 소프트웨어 vol.396
 description: "Book Review - 마이크로 소프트웨어 vol.396 (2019.06.14)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

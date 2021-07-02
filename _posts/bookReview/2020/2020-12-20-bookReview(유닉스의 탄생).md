@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 유닉스의 탄생
 description: "Book Review - 유닉스의 탄생 (2020.12.20)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

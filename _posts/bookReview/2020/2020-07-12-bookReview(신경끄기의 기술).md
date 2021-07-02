@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 신경끄기의 기술
 description: "Book Review - 신경끄기의 기술 (2020.07.12)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

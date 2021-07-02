@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - Clean Code
 description: "Book Review - Clean Code (2020.04.24)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

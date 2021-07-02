@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 높은 성의 사내
 description: "Book Review - 높은 성의 사내 (2019.07.20)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

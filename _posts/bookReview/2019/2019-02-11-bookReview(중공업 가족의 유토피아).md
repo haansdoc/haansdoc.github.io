@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 중공업 가족의 유토피아
 description: "Book Review - 중공업 가족의 유토피아 (2019.02.11)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

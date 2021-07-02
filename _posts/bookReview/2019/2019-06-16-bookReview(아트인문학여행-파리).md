@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 아트인문학여행-파리
 description: "Book Review - 아트인문학여행-파리 (2019.06.16)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

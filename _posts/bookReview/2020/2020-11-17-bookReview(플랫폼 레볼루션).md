@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 플랫폼 레볼루션
 description: "Book Review - 플랫폼 레볼루션 (2020.11.17)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

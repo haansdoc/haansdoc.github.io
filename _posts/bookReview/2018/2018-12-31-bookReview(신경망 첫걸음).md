@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 신경망 첫걸음
 description: "Book Review - 신경망 첫걸음 (2018.12.31)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

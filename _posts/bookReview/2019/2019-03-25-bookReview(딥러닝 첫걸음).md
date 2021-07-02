@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 딥러닝 첫걸음
 description: "Book Review - 딥러닝 첫걸음 (2019.03.25)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

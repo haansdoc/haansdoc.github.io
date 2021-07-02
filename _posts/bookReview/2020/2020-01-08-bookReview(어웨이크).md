@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 어웨이크
 description: "Book Review - 어웨이크 (2020.01.08)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

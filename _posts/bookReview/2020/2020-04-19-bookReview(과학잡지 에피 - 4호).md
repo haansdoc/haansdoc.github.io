@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 과학잡지 에피 - 4호
 description: "Book Review - 과학잡지 에피 - 4호 (2020.04.19)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

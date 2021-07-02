@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 나는 아마존에서 미래를 다녔다
 description: "Book Review - 나는 아마존에서 미래를 다녔다 (2020.05.12)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

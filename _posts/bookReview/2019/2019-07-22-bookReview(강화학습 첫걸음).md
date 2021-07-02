@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 강화학습 첫걸음
 description: "Book Review - 강화학습 첫걸음 (2019.07.22)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

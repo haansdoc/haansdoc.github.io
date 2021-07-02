@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 역사의 역사
 description: "Book Review - 역사의 역사 (2018.08.19)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

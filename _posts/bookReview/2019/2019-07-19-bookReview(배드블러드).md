@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 배드 블러드
 description: "Book Review - 배드 블러드 (2019.07.19)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 창의성을 지휘하라
 description: "Book Review - 창의성을 지휘하라 (2019.03.04)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:

@@ -2,7 +2,7 @@
 layout: post
 title: Book Review - 보통 사람들의 전쟁
 description: "Book Review - 보통 사람들의 전쟁 (2020.01.18)" 
-category: Book_Review
+category: Read.
 tags: [Book Review]
 author: Haan
 image:
