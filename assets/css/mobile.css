@@ -6,9 +6,9 @@
 
 
 @media all and (max-width: 600px) {
-    /* .right.menu {
+    .right.menu {
         display: none !important;
-    } */
+    }
 
     header {
         max-width: 95%;
