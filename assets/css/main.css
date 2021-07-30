@@ -10,6 +10,13 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family:'BRUSHSCI';
+    src: url('fonts/BRUSHSCI[su051388].TTF');
+}
+
+
+
 html, body {
     height: 100%;
 }
@@ -22,15 +29,17 @@ img, video, iframe {
 
 .header-wrapper {
     max-height: 100%;
-    background-color: rgba(96, 152, 184, 1);
+    background-color: transparent;
+    /* background-color: rgba(96, 152, 184, 1); */
 }
 
 header {
     max-width: 80%;
     margin: 0 auto;
     background-size: cover;
-    color: rgba(255, 255, 255, 0.75);
-    text-shadow: 2px 2px gray;
+    color: black;
+    text-shadow: 1px 1px black;
+    
 }
 
 /*
@@ -56,11 +65,14 @@ header {
 }
 
 .site-description {
-    /* font-family: "Brush Script MT", "League Gothic", "Arial Narrow", Arial,"Open Sans",sans-serif; */
-    font-family: League Gothic;
+    font-family: "Brush Script MT", "League Gothic", "Arial Narrow", Arial,"Open Sans",sans-serif;
+    /* font-family:League Gothic; */
+    /* font-family: BRUSHSCI, serif; */
     text-align: left;
-    font-size: 40px;
+    font-size: 50px;
     margin: 10px 5px 15px 20px;
+    
+    text-shadow: 5px 5px darkgrey;
 }
 
 
