@@ -11,8 +11,8 @@
 }
 
 @font-face {
-    font-family:'BRUSHSCI';
-    src: url('fonts/BRUSHSCI[su051388].TTF');
+    font-family:'SCRIPTIN';
+    src: url('fonts/SCRIPTIN.ttf');
 }
 
 
@@ -65,9 +65,9 @@ header {
 }
 
 .site-description {
-    font-family: "Brush Script MT", "League Gothic", "Arial Narrow", Arial,"Open Sans",sans-serif;
+    /* font-family: "Brush Script MT", "League Gothic", "Arial Narrow", Arial,"Open Sans",sans-serif; */
     /* font-family:League Gothic; */
-    /* font-family: BRUSHSCI, serif; */
+    font-family: "SCRIPTIN", serif;
     text-align: left;
     font-size: 50px;
     margin: 10px 5px 15px 20px;
