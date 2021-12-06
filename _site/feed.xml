@@ -5,9 +5,34 @@
     <description>Retrospect</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Dec 2021 04:30:41 +0900</pubDate>
-    <lastBuildDate>Sat, 04 Dec 2021 04:30:41 +0900</lastBuildDate>
+    <pubDate>Tue, 07 Dec 2021 02:12:16 +0900</pubDate>
+    <lastBuildDate>Tue, 07 Dec 2021 02:12:16 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>2021.12.06 - Question of the day</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;what-am-i-look-forward-to&quot;&gt;What am I look forward to?&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;I am preparing to start a business. &lt;br /&gt;
+As part of this career, I am trying to get a master degree of “Teaching IT technology for children” &lt;br /&gt;
+I am not sure if I need a degree, but I believe this new challenge will be grown me.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 06 Dec 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2021/12/Question-of-the-day.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2021/12/Question-of-the-day.html</guid>
+        
+        <category>QuestionOfTheDay</category>
+        
+        
+        <category>Done.</category>
+        
+      </item>
     
       <item>
         <title>2021.12.04 - Question of the day</title>
@@ -123,6 +148,41 @@ I think I can’t afford it.&lt;/li&gt;
         
         
         <category>Done.</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Review - 스타트업의 거짓말</title>
+        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/BR_211202.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;요즘 좀 스타트업에 관심이 많다. &lt;br /&gt;
+알라딘 중고서점에 갔다가 괜히 아무것도 안사고 나오기 그래서 하나 집어왔는데 나쁘지 않았다.&lt;/p&gt;
+
+&lt;p&gt;잘나가는 스타트업들의 허와 실에 대해서 이야기 하고 있는 책이다. &lt;br /&gt;
+초반엔 스타트업 문화에 대한 설명들이라 뻔하디 뻔하다 싶었지만, 책 후반부로 갈수록 눈먼 벤처 캐피탈과 책임감 없고 돈만 쫓는 창업가에 대한 비판적인 내용도 있어서 신선하게 읽었다.&lt;/p&gt;
+
+&lt;p&gt;책에 언급된 사례나 통계들이 미국이나 독일(작가가 독일 사람이다)의 것이어서, 약간 우리나라 현실과를 다른점이 있다고 생각하지만, &lt;br /&gt;
+(당장 구체적으로 정해진 것은 없지만) 창업을 준비하고 있는 입장에서  &lt;br /&gt;
+창업아이템을 찾고 그 아이템을 develop 하는 과정, 펀딩하는 과정, 그리고 이런 과정을들 거치는 동안 창업자의 마음가짐등  &lt;br /&gt;
+한번쯤은 생각해 봐야 할 문제들에 대해서 생각해 보는 기회가 되었다.&lt;/p&gt;
+
+&lt;p&gt;예전에 26살때 장사에 처음 도전할때, 그땐 정말 내가 나서기만 하면 다 완판 할 수 있을 줄 알았다. &lt;br /&gt;
+근데 실상은 많이 달랐었다. 100개를 가지고 나가면 30개 필기도 어려웠고,  &lt;br /&gt;
+그렇게 팔고 남은 재고를 어떻게 처리 해야 할 지도 몰랐다.  &lt;br /&gt;
+그래서 나는 3개웖만에 도망쳤다.&lt;/p&gt;
+
+&lt;p&gt;다시 새로운 일을 시작한다면, 이젠 도망치지 않을 수 있을까?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Dec 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2021/12/bookReview(%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EA%B1%B0%EC%A7%93%EB%A7%90).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2021/12/bookReview(%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EA%B1%B0%EC%A7%93%EB%A7%90).html</guid>
+        
+        <category>Book Review</category>
+        
+        
+        <category>Read.</category>
         
       </item>
     
@@ -250,73 +310,6 @@ he is wonderful. he is always smile when we get eye contact.&lt;/li&gt;
         
         
         <category>Done.</category>
-        
-      </item>
-    
-      <item>
-        <title>Book Review - 지독한 스타트업</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/BR_210720.jpeg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;리디북스에서 우연히 발견해서 읽은 소설
-길지 않은 내용에다 살짝 뭔가 어색한 전개가 있었지만 끝까지 재미있게 읽었다.&lt;/p&gt;
-
-&lt;p&gt;특히 작가가 스타트업 출신이라 
-스타트업이 어떻게 탄생하고 성장하는지에 대해 잘 표현되어 있다
-(고 후기에 써 있더라. 난 스타텁 안다녀 봐서 모르지)&lt;/p&gt;
-
-&lt;p&gt;킬링타임용으로 적당히 재미있고 단숨에 읽을 수 있는 책&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Jul 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2021/07/bookReview(%EC%A7%80%EB%8F%85%ED%95%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2021/07/bookReview(%EC%A7%80%EB%8F%85%ED%95%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85).html</guid>
-        
-        <category>Book Review</category>
-        
-        
-        <category>Read.</category>
-        
-      </item>
-    
-      <item>
-        <title>Book Review - 왜 사람들은 이상한 것을 믿는가</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/BR_210719.jpeg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;몇년전에 겉멋용으로 정기구독한 (그것도 3년이나) 계간지 SKEPTIC(스캡틱)의 정기구독 선물로 받은 책이다. 받은지 진짜 한 3~4년 된거 같은데 이제 다 읽었다.&lt;/p&gt;
-
-&lt;p&gt;제목 그대로 왜 사람들이 밝혀진 진실이 아닌 자신이 믿고 싶은 것을 믿는지에 대한 이야기를 창조론을 믿는 사람들과 홀로코스트를 부정하는 사람들 등 여러가지 예를 들어 설명하고 그들의 주장(!)이 틀렸음을 증명하고 있다.&lt;/p&gt;
-
-&lt;p&gt;책이 두껍고 약간 어려워서 초반엔 좀 읽기 어려웠다. (솔직히 좀 지루했다) 
-근데 끝까지 보다가 책의 말미쯤에 문득 든 생각이…….
-이 작가는 참 피곤하게 산다 
-는 것이 었다. 
-물론 과학자로써 정확한 사실관계를 따지고 틀리고 맞음을 분명히 하는게 맞다. 그걸 반박하고 싶지 않다.
-나도 내가 믿는 신념과 내가 알고 있는 펙트를 가지고 무지(하다고 내가 마음대로 정)한 사람들을 설득하려고 엄청나게 노력하던 시절이 있었다. 
-그런데 나도 나이를 먹고 이쯤 되고 보니 그게 다 부질 없었던것 같다. 
-내가 20대때 신념을 가지고 한 행동들을 그당시 내 나이었던 어른들은 어린놈들이 설친다고 했었다. 
-근데 지금의 나는 또 지금의 이십대의 여러 주장과 행동을 보고 아직 세상을 잘 몰라서 그렇다고 한다.&lt;/p&gt;
-
-&lt;p&gt;결국 자기가 서 있는 자리(입장)에 따라 순리대로 바뀌는게 아닌가 싶다.&lt;/p&gt;
-
-&lt;p&gt;이럴때 느끼는 최고의 명언은 역시나 
-“그러려니” 
-인것 같다.&lt;/p&gt;
-
-&lt;p&gt;누가 나에게 뭘 주장하던 그러려니 하고 들어주고 
-내 의견과 달라도 그러려니 하고 넘어가면서 살려고 한다. 
-그게 현명함이 아닐까 하는데 이것 역시 아직 세상을 다 모르는 상태에서 내린 너무 성급한 결론일까&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Jul 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2021/07/bookReview(%EC%99%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EC%83%81%ED%95%9C-%EA%B2%83%EC%9D%84-%EB%AF%BF%EB%8A%94%EA%B0%80).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2021/07/bookReview(%EC%99%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EC%83%81%ED%95%9C-%EA%B2%83%EC%9D%84-%EB%AF%BF%EB%8A%94%EA%B0%80).html</guid>
-        
-        <category>Book Review</category>
-        
-        
-        <category>Read.</category>
         
       </item>
     
