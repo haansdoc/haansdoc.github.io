@@ -19,13 +19,16 @@ layout: default
             <div class="four wide column">
                 {% include card.html %}
             </div>
-        {% else %}
+        {% elseif counter > 6 && counter <= 25 %}
             {% if counter == 7 %}
                 <div class="ui horizontal divider">
                     Older Posts
                 </div>
             {% endif %}
-            <div class="sixteen wide column">
+            <div class="two wide column">
+                {% include card.html %}
+            </div>
+            <!-- <div class="sixteen wide column">
                 <div class="ui middle aligned selection list">
                     <div class="item">
                         <div class="header">  
@@ -36,7 +39,7 @@ layout: default
                         {{ post.content | strip_html | truncatewords: 30 }}
                     </div>
                 </div>
-            </div>
+            </div> -->
         {% endif %}
     {% endfor %}
 </div>
