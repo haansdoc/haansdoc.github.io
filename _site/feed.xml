@@ -5,9 +5,32 @@
     <description>Retrospect</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Dec 2022 01:44:01 +0900</pubDate>
-    <lastBuildDate>Sun, 11 Dec 2022 01:44:01 +0900</lastBuildDate>
-    <generator>Jekyll v4.3.1</generator>
+    <pubDate>Thu, 14 Nov 2024 00:51:30 +0900</pubDate>
+    <lastBuildDate>Thu, 14 Nov 2024 00:51:30 +0900</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>2024.11.13 - upload test</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;test sub title
+    &lt;ul&gt;
+      &lt;li&gt;contents&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 13 Nov 2024 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//2024/11/Done(241113).html</link>
+        <guid isPermaLink="true">http://localhost:4000//2024/11/Done(241113).html</guid>
+        
+        <category>CHAT</category>
+        
+        <category>회고</category>
+        
+        
+        <category>Done.</category>
+        
+      </item>
     
       <item>
         <title>Book Review - 나쁜 교육</title>
@@ -357,42 +380,6 @@ sf이긴 하지만 도시의 환경이나 달에서 사는 사람들의 생활�
         <pubDate>Sat, 06 Aug 2022 00:00:00 +0900</pubDate>
         <link>http://localhost:4000//2022/08/bookReview(%EC%8B%9C%EC%9E%91%EC%9D%98-%EA%B8%B0%EC%88%A0).html</link>
         <guid isPermaLink="true">http://localhost:4000//2022/08/bookReview(%EC%8B%9C%EC%9E%91%EC%9D%98-%EA%B8%B0%EC%88%A0).html</guid>
-        
-        <category>Book Review</category>
-        
-        
-        <category>Read.</category>
-        
-      </item>
-    
-      <item>
-        <title>Book Review - 달리기를 말할때 내가 하고 싶은 이야기</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/2022/BR_220804.jpg&quot; height=&quot;500&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;무라카미 하루키의 책을 단 한권도 읽은 적이 없었다.&lt;br /&gt;
-이 책이 내 첫번째 하루키의  책이다.&lt;/p&gt;
-
-&lt;p&gt;작가라는 직업을 가졌을때 꼭 필요한 것이 체력이라 생각해서 달리기를 시작했단다.&lt;br /&gt;
-그리고 마라톤 풀코스를 25번 완주 했다고 한다. &lt;br /&gt;
-책의 내용은 2007년 까지의 이야기니, 지금(2022년)은 더 했겠지.&lt;/p&gt;
-
-&lt;p&gt;책을 읽다보니 “루틴의 중요성”에 대해 새삼 느끼게 되었다.&lt;br /&gt;
-작가나 개발자나 하루종일 책상머리에 앉아서 시간을 보내는게 비슷하고, 심지어 나는 재택근무를 하니 라이프사이클이 더욱더 비슷하다는 생각이 들었다.&lt;br /&gt;
-그리고 일에 쫓겨 하루종일 일만 하다보면, 규칙적으로 운동이나 공부등 다른일를 하기가 많이 힘든데…… &lt;br /&gt;
-(지금 드는 생각은 일이라는게 할려고 하면 끝도 없으니, 알아서 적정시점에 끊고 다음 일을 할 수 있어야 한다) 
-그럴수록 일부러 시간을 내서 정해진 시간에 정해진 일을 할 수 있는 루틴을 만들어야겠다는 생각이 들었다.&lt;/p&gt;
-
-&lt;p&gt;그리고 나도 좀 걷거나 뛰거나 하는걸 해봐야겠단 생각이 들었다. &lt;br /&gt;
-실은 계단오르기 운동을 잘 해오다가 안한지 2달쯤 되었는데, 아파트 주변을 하루 5km(나!!) 걷는걸 목표로 삼았다.&lt;/p&gt;
-
-&lt;p&gt;과하지 않을 만큼만&lt;br /&gt;
-루틴을 만들어야 한다.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 04 Aug 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000//2022/08/bookReview(%EB%8B%AC%EB%A6%AC%EA%B8%B0%EB%A5%BC-%EB%A7%90%ED%95%A0%EB%95%8C-%EB%82%B4%EA%B0%80-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%9D%B4%EC%95%BC%EA%B8%B0).html</link>
-        <guid isPermaLink="true">http://localhost:4000//2022/08/bookReview(%EB%8B%AC%EB%A6%AC%EA%B8%B0%EB%A5%BC-%EB%A7%90%ED%95%A0%EB%95%8C-%EB%82%B4%EA%B0%80-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%9D%B4%EC%95%BC%EA%B8%B0).html</guid>
         
         <category>Book Review</category>
         
