@@ -5,40 +5,39 @@ title: Read.
 
 {% for post in site.posts %}
 
-{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
-{% if forloop.first %}
-<h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-<ul>
+    {% if forloop.first %}
+        <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
+        <ul>
     {% endif %}
 
     {% if post.category=="Read." %}
-    <div class="ui middle aligned selection list">
-        <div class="item">
-            <a class="header" href="{{ BASE_PATH }}{{ post.url }}">
-                {{ post.title | strip_html | truncatewords: 15 }}
-                <small class="small-date">
-                    {{ post.date | date_to_string }}
-                    {% if post.category %}
-                    in <i>{{ post.category }}</i>
-                    {% endif %}
-                </small>
-            </a>
-            {{ post.content | strip_html | truncatewords: 30 }}
+        <div class="ui middle aligned selection list">
+            <div class="item">
+                <a class="header" href="{{ BASE_PATH }}{{ post.url }}">
+                    {{ post.title | strip_html | truncatewords: 15 }}
+                    <small class="small-date">
+                        {{ post.date | date_to_string }}
+                        {% if post.category %}
+                        in <i>{{ post.category }}</i>
+                        {% endif %}
+                    </small>
+                </a>
+                {{ post.content | strip_html | truncatewords: 30 }}
+            </div>
         </div>
-    </div>
     {% endif %}
-
 
     {% if forloop.last %}
-</ul>
-{% else %}
-{% if this_year != next_year %}
-</ul>
-<h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-<ul>
-    {% endif %}
+        </ul>
+    {% else %}
+        {% if this_year != next_year %}
+            </ul>
+            <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+            <ul>
+        {% endif %}
     {% endif %}
 
-    {% endfor %}
+{% endfor %}
