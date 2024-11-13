@@ -33,6 +33,8 @@ layout: default
                             <small class="small-date">{{ post.date | date_to_string }}</small>
                         </div>
                         {{ post.content | strip_html | truncatewords: 30 }}
+                        {% include card.html %}
+
                     </div>
                 </div>
             </div>
