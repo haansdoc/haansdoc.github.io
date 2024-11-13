@@ -25,9 +25,11 @@ layout: default
                     Older Posts
                 </div>
             {% endif %}
-            <div class="two wide column">
-                {% include card.html %}
-            </div>
+            {% if counter > 26}
+                <div class="sixteen wide column">
+                    {% include card.html %}
+                </div>
+            {% endif %}
             <!-- <div class="sixteen wide column">
                 <div class="ui middle aligned selection list">
                     <div class="item">
